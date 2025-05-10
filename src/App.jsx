@@ -13,7 +13,7 @@ function App() {
 			<div>Count: {count}</div>
 			<div>
 				<button onClick={() => handleCountChange(1)}>Increment</button>
-				<button onClick={() => handleCountChange(-1)}>decrement</button>
+				<button onClick={() => handleCountChange(-1)}>Decrement</button>
 			</div>
 		</>
 	);
